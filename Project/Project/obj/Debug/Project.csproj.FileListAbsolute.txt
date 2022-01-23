@@ -1,0 +1,62 @@
+D:\iti\ProjectC#\Project\Project\bin\Debug\Project.exe.config
+D:\iti\ProjectC#\Project\Project\bin\Debug\Project.exe
+D:\iti\ProjectC#\Project\Project\bin\Debug\Project.pdb
+D:\iti\ProjectC#\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\iti\ProjectC#\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+D:\iti\ProjectC#\Project\Project\obj\Debug\Project.Form1.resources
+D:\iti\ProjectC#\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\iti\ProjectC#\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\iti\ProjectC#\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\iti\ProjectC#\Project\Project\obj\Debug\Project.exe
+D:\iti\ProjectC#\Project\Project\obj\Debug\Project.pdb
+D:\iti\ProjectC#\Project\Project\obj\Debug\Project.Stores.resources
+D:\ProjectC#\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\ProjectC#\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+D:\ProjectC#\Project\Project\obj\Debug\Project.Form1.resources
+D:\ProjectC#\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\ProjectC#\Project\Project\obj\Debug\Project.Stores.resources
+D:\ProjectC#\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\ProjectC#\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\ProjectC#\Project\Project\obj\Debug\Project.exe
+D:\ProjectC#\Project\Project\obj\Debug\Project.pdb
+D:\ProjectC#\Project\Project\bin\Debug\Project.exe.config
+D:\ProjectC#\Project\Project\bin\Debug\Project.exe
+D:\ProjectC#\Project\Project\bin\Debug\Project.pdb
+D:\ProjectC#\Project\Project\bin\Debug\Guna.UI.dll
+D:\ProjectC#\Project\Project\obj\Debug\Project.csproj.CopyComplete
+D:\ProjectC#\Project\Project\obj\Debug\Project.ProductsForm.resources
+D:\ProjectC#\Project\Project\obj\Debug\Project.CategoryForm.resources
+C:\Users\Sleem Mostafa\Desktop\ProjectC#\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Sleem Mostafa\Desktop\ProjectC#\Project\Project\bin\Debug\Project.exe
+C:\Users\Sleem Mostafa\Desktop\ProjectC#\Project\Project\bin\Debug\Project.pdb
+C:\Users\Sleem Mostafa\Desktop\ProjectC#\Project\Project\bin\Debug\Guna.UI.dll
+C:\Users\Sleem Mostafa\Desktop\ProjectC#\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Sleem Mostafa\Desktop\ProjectC#\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sleem Mostafa\Desktop\ProjectC#\Project\Project\obj\Debug\Project.CategoryForm.resources
+C:\Users\Sleem Mostafa\Desktop\ProjectC#\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\Sleem Mostafa\Desktop\ProjectC#\Project\Project\obj\Debug\Project.ProductsForm.resources
+C:\Users\Sleem Mostafa\Desktop\ProjectC#\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Sleem Mostafa\Desktop\ProjectC#\Project\Project\obj\Debug\Project.Stores.resources
+C:\Users\Sleem Mostafa\Desktop\ProjectC#\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Sleem Mostafa\Desktop\ProjectC#\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Sleem Mostafa\Desktop\ProjectC#\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Sleem Mostafa\Desktop\ProjectC#\Project\Project\obj\Debug\Project.exe
+C:\Users\Sleem Mostafa\Desktop\ProjectC#\Project\Project\obj\Debug\Project.pdb
+D:\ITI intake\ITI\C#\Project\New Version\ProjectC#\ProjectC#\Project\Project\bin\Debug\Project.exe.config
+D:\ITI intake\ITI\C#\Project\New Version\ProjectC#\ProjectC#\Project\Project\bin\Debug\Project.exe
+D:\ITI intake\ITI\C#\Project\New Version\ProjectC#\ProjectC#\Project\Project\bin\Debug\Project.pdb
+D:\ITI intake\ITI\C#\Project\New Version\ProjectC#\ProjectC#\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\ITI intake\ITI\C#\Project\New Version\ProjectC#\ProjectC#\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+D:\ITI intake\ITI\C#\Project\New Version\ProjectC#\ProjectC#\Project\Project\obj\Debug\Project.CategoryForm.resources
+D:\ITI intake\ITI\C#\Project\New Version\ProjectC#\ProjectC#\Project\Project\obj\Debug\Project.Form1.resources
+D:\ITI intake\ITI\C#\Project\New Version\ProjectC#\ProjectC#\Project\Project\obj\Debug\Project.ProductsForm.resources
+D:\ITI intake\ITI\C#\Project\New Version\ProjectC#\ProjectC#\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\ITI intake\ITI\C#\Project\New Version\ProjectC#\ProjectC#\Project\Project\obj\Debug\Project.Stores.resources
+D:\ITI intake\ITI\C#\Project\New Version\ProjectC#\ProjectC#\Project\Project\obj\Debug\Project.SupplierForm.resources
+D:\ITI intake\ITI\C#\Project\New Version\ProjectC#\ProjectC#\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\ITI intake\ITI\C#\Project\New Version\ProjectC#\ProjectC#\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\ITI intake\ITI\C#\Project\New Version\ProjectC#\ProjectC#\Project\Project\obj\Debug\Project.csproj.CopyComplete
+D:\ITI intake\ITI\C#\Project\New Version\ProjectC#\ProjectC#\Project\Project\obj\Debug\Project.exe
+D:\ITI intake\ITI\C#\Project\New Version\ProjectC#\ProjectC#\Project\Project\obj\Debug\Project.pdb
+D:\ITI intake\ITI\C#\Project\New Version\ProjectC#\ProjectC#\Project\Project\bin\Debug\Guna.UI2.dll
+D:\ITI intake\ITI\C#\Project\New Version\ProjectC#\ProjectC#\Project\Project\obj\Debug\Project.CustomerForm.resources
